@@ -24,6 +24,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@firebase/app-types": "^0.3.2",
     "@types/ejs": "^2.6.0",
     "@types/express": "^4.16.0",
     "@types/node": "^8.10.21",
@@ -31,6 +32,8 @@
     "css-loader": "^1.0.0",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
+    "firebase/auth": "^5.4.0",
+    "firebaseui": "^3.3.0",
     "mini-css-extract-plugin": "^0.4.1",
     "morgan": "^1.9.0",
     "node-sass": "^4.9.3",
